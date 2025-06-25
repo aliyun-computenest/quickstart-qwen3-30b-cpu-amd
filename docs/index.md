@@ -44,7 +44,7 @@ Qwen3-30B-A3B chat 在阿里云上的费用主要涉及：
 
 ## 部署流程
 
-1. 单击[部署链接](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceName=Qwen3-30B-A3B-Chat-CPU版本-AMD&ServiceVersion=draft)。根据界面提示实例选择并填写参数，可以看到对应询价明细，确认参数后点击**下一步：确认订单**。
+1. 单击[部署链接](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceName=Qwen3-30B-A3B-Chat-CPU版本-AMD)。根据界面提示实例选择并填写参数，可以看到对应询价明细，确认参数后点击**下一步：确认订单**。
 
    ![deploy.png](1.jpg)
 	
@@ -71,6 +71,7 @@ Qwen3-30B-A3B chat 在阿里云上的费用主要涉及：
     ![longin.png](7.jpg)
 
 ## [演示视频](demo.gif)
+   ![result.png](demo.gif)
 
 ## 性能测试
 
